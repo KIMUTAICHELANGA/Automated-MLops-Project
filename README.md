@@ -1,4 +1,3 @@
-```markdown
 # End-to-End Machine Learning Pipeline with MLOps Tools
 
 This project automates the machine learning lifecycle, from training to deployment and monitoring, using various MLOps tools.
@@ -35,4 +34,3 @@ This project automates the machine learning lifecycle, from training to deployme
 
 ## License
 This project is licensed under the MIT License.
-```
